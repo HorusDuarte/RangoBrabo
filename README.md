@@ -19,7 +19,7 @@ Projeto JavaWeb Idealizado por:
  - [x] SQL
  - [x] AWS Elastic Beanstalk
 
-<h1> Metodologia Usada:
+<h1> Metodologia Usada:<H1>
 
 ->Ágil(Adaptada)
  

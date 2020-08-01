@@ -1,4 +1,4 @@
-# RANGO BRABO E-COMERCE
+# RANGO BRABO E-COMMERCE
 
 Projeto JavaWeb Idealizado por:
 

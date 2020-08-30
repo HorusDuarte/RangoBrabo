@@ -12,7 +12,7 @@ Projeto JavaWeb Idealizado por:
 <br>
 <H3>O projeto tem como base uma plataforma e-comerce inteiramente em JavaWeb desenvolvido em faculdade, com o objetivo de fornecer para as pessoas marmitex saúdaveis e de acordo com sua própria localização(exemplo: SP- Marmitex Virada Paulista Light) desse jeito além de uma refeição acessível e o usuáio receberá comidas balanceadas e saúdaveis.  </H3>
 
-<h1>Stacks <h1>
+<h1>Stacks </h1>
   
  - [x] JSP
  - [x] Java
